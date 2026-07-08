@@ -1,6 +1,6 @@
 # Cordi Lab — Soft Landing
 
-**Blind-box collectible photocard sleeves.** Fans spend serious money on their photocards, then store them in a 10-cent clear plastic sleeve. We made the sleeve the collectible.
+**Photocard sleeves that never flip backwards — sold as blind-box collectibles.** Photocards exist to be displayed, but in a normal sleeve or holder the card spins and flips so you're showing the world the back of the card. Ours locks the card facing forward, always — and the sleeve itself is a collectible design you pull blind-box style.
 
 **Live store:** https://0103-parv.github.io/alpha-evolver/
 **3D design review:** https://0103-parv.github.io/alpha-evolver/design/
